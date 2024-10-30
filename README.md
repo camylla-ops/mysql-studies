@@ -4,7 +4,7 @@ Bem-vindo ao repositório de estudos de MySQL! Este repositório contém um arqu
 
 ## 📂 Conteúdo do Repositório
 
-- **mysql_cheatsheet.sql**: Arquivo principal contendo comandos e exemplos de MySQL, prontos para copiar e executar. Ideal para consulta rápida e prática.
+- - **[mysql_cheatsheet.sql](mysql-studies/mysql_cheatsheet.sql)** Arquivo principal contendo comandos e exemplos de MySQL, prontos para copiar e executar. Ideal para consulta rápida e prática.
 
 ---
 
