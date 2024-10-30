@@ -1,29 +1,39 @@
-# MySQL Studies 📚
+# MySQL Studies 📘
 
-Este repositório contém uma coleção de comandos e exemplos em MySQL, organizado em diferentes tópicos para facilitar a consulta rápida e o estudo de conceitos fundamentais.
+Bem-vindo ao repositório de estudos de MySQL! Este repositório contém um arquivo consolidado para consulta rápida de comandos SQL, com instruções práticas e exemplos úteis para ajudar a reforçar o aprendizado de MySQL.
 
-## Estrutura do Repositório
+## 📂 Conteúdo do Repositório
 
-- **SQL Basics**: Comandos e operações básicas.
-- **Table Operations**: Criação, modificação e exclusão de tabelas.
-- **Data Manipulation**: Inserção, atualização e exclusão de dados.
-- **Aggregation and Joins**: Funções de agregação e junções.
-- **Advanced Topics**: Tópicos avançados como indexação, transações e views.
-
-## Como Usar
-
-Cada diretório contém arquivos Markdown (`.md`) com comandos e exemplos. Navegue pela estrutura para acessar o tópico desejado e use os comandos como referência para suas práticas e consultas.
+- **mysql_cheatsheet.sql**: Arquivo principal contendo comandos e exemplos de MySQL, prontos para copiar e executar. Ideal para consulta rápida e prática.
 
 ---
 
-## Tópicos e Links
+## 📖 Estrutura de Tópicos
 
-1. [SQL Básico](./SQL%20Basics/commands.md)
-2. [Operações com Tabelas](./Table%20Operations/create_tables.md)
-3. [Manipulação de Dados](./Data%20Manipulation/insert.md)
-4. [Agregação e Junções](./Aggregation%20and%20Joins/aggregation.md)
-5. [Tópicos Avançados](./Advanced%20Topics/indexing.md)
+1. **Comandos Básicos** - Conexão, criação e uso de bancos de dados
+2. **Operações com Tabelas** - Criação, alteração e exclusão de tabelas
+3. **Manipulação de Dados** - Inserção, atualização e remoção de registros
+4. **Consultas Avançadas** - Ordenação, agrupamento e condições múltiplas
+5. **Funções de Agregação** - SUM, AVG, COUNT, MIN, MAX
+6. **Junções (JOINS)** - Inner Join, Left Join, Right Join
+7. **Tópicos Avançados** - Indexação, transações e views
+
+---
+
+## Como Usar
+
+Para usar este repositório:
+
+1. Abra o arquivo `mysql_cheatsheet.sql` em um editor SQL ou MySQL Workbench.
+2. Copie e cole os comandos de interesse diretamente em seu ambiente SQL para experimentar e praticar.
+3. Consulte sempre que precisar relembrar comandos ou verificar exemplos de sintaxe.
+
+---
 
 ## Contribuições
 
-Este é um repositório pessoal de estudos, mas se desejar contribuir ou apontar melhorias, sinta-se à vontade para abrir uma issue ou um pull request. Toda contribuição é bem-vinda!
+Este é um repositório pessoal de estudos, mas contribuições são bem-vindas. Se encontrar algo que pode ser melhorado, sinta-se à vontade para abrir uma issue ou um pull request.
+
+---
+
+**Bom estudo!** 📝
