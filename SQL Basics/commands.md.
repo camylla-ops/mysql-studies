@@ -1,1 +1,15 @@
 
+-- Conectar ao MySQL:
+mysql -u usuario -p
+
+-- Mostrar todos os bancos de dados:
+SHOW DATABASES;
+
+-- Criar um novo banco de dados:
+CREATE DATABASE nome_do_banco;
+
+-- Usar um banco de dados:
+USE nome_do_banco;
+
+-- Deletar um banco de dados:
+DROP DATABASE nome_do_banco;
