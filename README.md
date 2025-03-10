@@ -1,4 +1,4 @@
-# MySQL Studies 📘
+# MySQL Studies 
 
 Bem-vindo ao repositório de estudos de MySQL! Este repositório contém um arquivo consolidado para consulta rápida de comandos SQL, com instruções práticas e exemplos úteis para ajudar a reforçar o aprendizado de MySQL.
 
